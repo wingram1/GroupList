@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS python_news_db;
+DROP DATABASE IF EXISTS grouplist;
 
-CREATE DATABASE python_news_db;
+CREATE DATABASE grouplist;
